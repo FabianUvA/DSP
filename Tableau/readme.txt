@@ -1,0 +1,1 @@
+After you start the Tableau file you will get two errors, the two files cannot be found because Tableu links to their path not relative but absolute. You can fix the connection to both of the files from inside Tableau. After that the dashboard should work as designed.
